@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <img src="walkthrough2.gif" styles="max-width: 300px; height: 40px;">
+    <img src="walkthrough.gif" styles="max-width: 300px; height: 40px;">
 </div>
 
 
